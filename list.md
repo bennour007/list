@@ -14,4 +14,6 @@
 
 - gdal
 
+- geos
+
 - gccfortran
