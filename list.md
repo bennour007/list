@@ -11,3 +11,7 @@
 - brave-bin
 
 - mdbtools
+
+- gdal
+
+- gccfortran
